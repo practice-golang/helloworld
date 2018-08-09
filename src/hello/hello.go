@@ -11,8 +11,8 @@ func main() {
 	fmt.Println(mypkg.SayHello())
 
 	// Using package
-	var myName = "Chul-soo"
-	yourName := "Young-hee"
+	var myName = "Chulsoo"
+	yourName := "Younghee"
 
 	var name string
 	name = mypkg.MyName(myName)
