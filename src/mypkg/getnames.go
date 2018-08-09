@@ -10,7 +10,7 @@ func YourName(name string) string {
 	return "Your name is " + name
 }
 
-// WorldName : return hello world
-func WorldName() string {
+// SayHello : return hello world
+func SayHello() string {
 	return "안녕 세상!"
 }

@@ -8,7 +8,7 @@ import (
 func main() {
 	// Hello world
 	fmt.Println("Hello world!")
-	fmt.Println(mypkg.WorldName())
+	fmt.Println(mypkg.SayHello())
 
 	// Using package
 	var myName = "Chul-soo"
