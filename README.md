@@ -19,7 +19,7 @@ hello$ ./hello.exe
     * 따라서 이 레포지터리 소스에 있는 spkg라는 package는 쓸 수 없는 위치에 있으므로 사용 불가
     * [dep](https://github.com/golang/dep)으로 vendor 폴더에 들어갈 패키지를 관리할 수 있다.
 
-### import
+## import
 ```go
 // Package 불러오기
 import "fmt"
