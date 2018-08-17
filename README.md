@@ -1,11 +1,12 @@
 # helloworld
 
-## 내려받기, 빌드
+## 내려받기, 빌드, 실행
 ```sh
 $ cd your workspace
 workspace$ git clone https://github.com/practice-golang/helloworld.git
 cd helloworld
 go build hello
+./hello.exe
 ```
 
 ## Package
