@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"mypkg"
 
-	// "spkg"	// 이렇게는 안 된다.
+	// "spkg" // 이렇게는 안 된다.
 	"vpkg"
 )
 
@@ -23,7 +23,7 @@ func main() {
 
 	fmt.Println(mypkg.YourName(yourName))
 
-	// fmt.Println(spkg.SayGoodToSeeYou())	// 이렇게는 안 된다.
+	// fmt.Println(spkg.SayGoodToSeeYou()) // 이렇게는 안 된다.
 
 	fmt.Println(vpkg.SayGoodbye())
 }
