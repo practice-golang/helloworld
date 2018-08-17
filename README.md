@@ -4,9 +4,9 @@
 ```sh
 $ cd your workspace
 workspace$ git clone https://github.com/practice-golang/helloworld.git
-cd helloworld
-go build hello
-./hello.exe
+workspace$ cd helloworld
+hello$ go build hello
+hello$ ./hello.exe
 ```
 
 ## Package
