@@ -24,6 +24,7 @@ hello$ ./hello.exe
 // Package 불러오기
 import "fmt"
 
+// 또는
 import (
     "fmt"
     "mypkg"
