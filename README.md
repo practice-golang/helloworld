@@ -10,7 +10,7 @@ hello$ ./hello.exe
 ```
 
 ## Package
-* 다른 언어에서 **라이브러리**라고 부르는 것이라 생각한다.
+* =라이브러리
 * [Golang 기본 제공하는 것](https://golang.org/pkg/)도 있고 제3자가 개발하여 배포하기도 한다.
 * Package는 사용되려면 아래와 같이 되어있어야 한다.
   * %Gopath%/src 하위에 존재해야 사용할 수 있다.
