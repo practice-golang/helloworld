@@ -1,5 +1,4 @@
 # helloworld
-----
 [![Go Report Card](https://goreportcard.com/badge/github.com/practice-golang/helloworld)](https://goreportcard.com/report/github.com/practice-golang/helloworld)  
 
 ## 내려받기, 빌드, 실행
