@@ -2,7 +2,7 @@ package mypkg
 
 // MyName : return my name
 func MyName(name string) string {
-	return "The name is " + name
+	return "My name is " + name
 }
 
 // YourName : return your name
