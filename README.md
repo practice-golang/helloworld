@@ -1,6 +1,8 @@
 # helloworld
 [![Go Report Card](https://goreportcard.com/badge/github.com/practice-golang/helloworld)](https://goreportcard.com/report/github.com/practice-golang/helloworld)  
 
+go 1.11 이상 go111module 사용시에는 [이것](https://github.com/practice-golang/go111module-localpkg)을 사용.
+
 ## 내려받기, 빌드, 실행
 ```sh
 $ cd your workspace
